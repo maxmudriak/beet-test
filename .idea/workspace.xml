@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="779ca7df-c9fb-4dea-90db-ebad5d35b55c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/foundation-beet-prepros-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/img/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/js/components/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/_main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/components/_featured-image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/components/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/components/_map.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/components/_slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/global/_accessibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/global/_wp-admin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/global/_wp-overrides.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/modules/_editor-style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/modules/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/modules/_navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/modules/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/templates/_front.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/templates/_kitchen-sink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/templates/_page-default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/templates/_page-sidebar-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_src/style/templates/_single-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/acf-json/group_5c7ee9f455a25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/acf-json/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/app.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/FoundationPress.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/cleanup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/custom-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/custom-nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/enqueue-scripts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/entry-meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/foundation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/menu-walkers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/navigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/plugin-activation-class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/protocol-relative-theme-assets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/recommended-plugins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/responsive-images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/sticky-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/theme-support.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/widget-areas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-templates/front.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-templates/kitchen-sink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-templates/page-contacts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-templates/page-sidebar-right.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events-manager/templates/event-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events-manager/templates/events-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prepros-6.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/searchform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/content-none.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/featured-image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/mobile-off-canvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/mobile-top-bar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/woocommerce/checkout/form-billing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/woocommerce/checkout/payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/woocommerce/checkout/review-order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/woocommerce/single-product/related.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wow_examples.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.513783">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="add-custom-button.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/add-custom-button.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1334">
+                  <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#6#126#0#PHP" expanded="true" />
+                    <marker date="1552839481957" expanded="true" signature="1160:1167" ph="SELECT * FRO... wp_em_events" />
+                    <marker date="1552839481957" expanded="true" signature="1160:1209" ph="SELECT post_... wp_posts" />
+                    <marker date="1552839481957" expanded="true" signature="1160:1233" ph="SELECT event... wp_em_events" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="next-game.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/buttons/next-game.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="253">
+                  <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/assets/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plug-style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/assets/css/plug-style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_src/style/app.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="759">
+                  <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>order_review</find>
+      <find>Total</find>
+      <find>$count</find>
+      <find>respond</find>
+      <find>GET_WAREHOUSES_ROUTE</find>
+      <find>getWarehousesAction</find>
+      <find>custom_checkout_field</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/../../plugins/events-manager/classes/em-event.php" />
+        <option value="$PROJECT_DIR$/../../plugins/events-manager/templates/templates/events-list.php" />
+        <option value="$PROJECT_DIR$/plugins/events-manager/templates/events-list.php" />
+        <option value="$PROJECT_DIR$/_src/style/app.scss" />
+        <option value="$PROJECT_DIR$/woocommerce/templates/checkout/form-billing.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/order-receipt.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/review-order.php" />
+        <option value="$PROJECT_DIR$/single.php" />
+        <option value="$PROJECT_DIR$/plugins/events-manager/templates/event-single.php" />
+        <option value="$PROJECT_DIR$/woocommerce/single-product/related.php" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/assets/css/plug-style.css" />
+        <option value="$PROJECT_DIR$/library/enqueue-scripts.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/form-billing.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/woo-checkout-new-field.php" />
+        <option value="$PROJECT_DIR$/_src/js/app.js" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/buttons/calculate-delivery.php" />
+        <option value="$PROJECT_DIR$/woocommerce/checkout/payment.php" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/add-custom-button.php" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/buttons/next-game.php" />
+        <option value="$PROJECT_DIR$/../../plugins/add-custom-button/assets/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="371" />
+    <option name="y" value="-19" />
+    <option name="width" value="1168" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Beet-theme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Beet-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../plugins" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="SearchEverywhereHistoryKey" value="em-event&#9;FILE&#9;file://D:/UniServerZ/www/beet_test/wp-content/plugins/events-manager/em-events.php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UniServerZ\www\beet_test\wp-content\themes\Beet-theme\woocommerce\single-product" />
+      <recent name="D:\UniServerZ\www\beet_test\wp-content\themes\Beet-theme\woocommerce\checkout" />
+      <recent name="D:\UniServerZ\www\beet_test\wp-content\themes\Beet-theme" />
+      <recent name="D:\UniServerZ\www\beet_test\wp-content\themes\Beet-theme\woocommerce\templates\checkout" />
+      <recent name="D:\UniServerZ\www\beet_test\wp-content\themes\Beet-theme\plugins\events-manager\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="779ca7df-c9fb-4dea-90db-ebad5d35b55c" name="Default" comment="" />
+      <created>1551814961042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551814961042</updated>
+      <workItem from="1551814962413" duration="1222000" />
+      <workItem from="1551974207810" duration="10787000" />
+      <workItem from="1552125760356" duration="17531000" />
+      <workItem from="1552216457474" duration="11502000" />
+      <workItem from="1552420495658" duration="4652000" />
+      <workItem from="1552590384019" duration="9158000" />
+      <workItem from="1552814666531" duration="19292000" />
+      <workItem from="1552932748541" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75506000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.111979164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18010472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>D:\UniServerZ\www\beet_test</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/tabs/tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/tabs/additional-information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/tabs/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/share.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/short-description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/photoswipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/product-thumbnails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/sale-flash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/review-rating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/product-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/product-attributes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/rating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/review-meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/templates/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/events-manager/templates/event-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/composer.json" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/classes/Warehouse.php" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/classes/Calculator.php" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woocommerce/includes/class-wc-checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="240" column="24" lean-forward="false" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/classes/Checkout.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/events-manager/templates/events-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17227">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/enqueue-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta-admin.js" />
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/woo-shipping-for-nova-poshta.php" />
+    <entry file="file://$PROJECT_DIR$/_src/style/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/review-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2852">
+          <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/woo-checkout-new-field.php" />
+    <entry file="file://$PROJECT_DIR$/_src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta.js" />
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/checkout/form-billing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="57" column="60" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/buttons/calculate-delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/assets/css/plug-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/add-custom-button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#126#0#PHP" expanded="true" />
+            <marker date="1552839481957" expanded="true" signature="1160:1167" ph="SELECT * FRO... wp_em_events" />
+            <marker date="1552839481957" expanded="true" signature="1160:1209" ph="SELECT post_... wp_posts" />
+            <marker date="1552839481957" expanded="true" signature="1160:1233" ph="SELECT event... wp_em_events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/buttons/next-game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/add-custom-button/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

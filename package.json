@@ -1,0 +1,11 @@
+{
+  "name": "foundation-beet",
+  "version": "1.0.0",
+  "description": "Foundation Beet gulp starter",
+  "author": "AlexCSS",
+  "license": "ISC",
+  "devDependencies": {
+    "foundation-sites": "^6.3.0",
+    "slick-carousel": "^1.6.0"
+  }
+}
